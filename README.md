@@ -8,5 +8,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🏠 **Rent Calculator** – A simple rent splitting/calculation tool
 - ☕ **Chai Menu** – A menu-based ordering system
 - ⏳ **Remaining Time Calculator** – Calculates remaining time in a Day
+- 💰 **Simple Interest Calculator** – Computes simple interest based on principal, rate & time
 
 ...and more to come as the journey continues!
