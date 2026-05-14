@@ -7,6 +7,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🪨 **Rock Paper Scissors** – A classic hand game built in Python
 - 🏠 **Rent Calculator** – A simple rent splitting/calculation tool
 - ☕ **Chai Menu** – A menu-based ordering system
-- ⏳ **Remaining Time Calculator** – Calculates remaining time for a given task/event
+- ⏳ **Remaining Time Calculator** – Calculates remaining time in a Day
 
 ...and more to come as the journey continues!
