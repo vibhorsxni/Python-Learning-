@@ -9,5 +9,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - ☕ **Chai Menu** – A menu-based ordering system
 - ⏳ **Remaining Time Calculator** – Calculates remaining time in a Day
 - 💰 **Simple Interest Calculator** – Computes simple interest based on principal, rate & time
+- 🪙 **Coin Toss Game** – A random coin toss game with heads or tails
 
 ...and more to come as the journey continues!
