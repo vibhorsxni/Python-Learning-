@@ -68,6 +68,11 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 
 - 🍵 Restraunt Menu - Done 
 - 🎮 Rock Paper Scissors Game - Done 
+- 🏠 Rent Calculator - Done
+- ⏳ Remaining Time Calculator - Done
+- 💰 Simple Interest Calculator - Done
+- 🪙 Coin Toss Game - Done
+- 🏏 Playing Position Decider - Done
 - 🔐 Password Generator
 - 📊 Calculator
 - 📝 To-Do App
