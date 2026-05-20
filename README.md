@@ -12,5 +12,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🪙 **Coin Toss Game** – A random coin toss game with heads or tails
 - 🏆 **Playing Position Decider** – Randomly assigns playing order for a group of players
 - 🏴‍☠️ **Find the Treasure** – A matrix-based treasure hunting game with dynamic grid & chances
+- 🔐 **Password Generator** – A password generator that can use custom characters or generate randomly based on user specification.
 
 ...and more to come as the journey continues!
