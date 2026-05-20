@@ -73,6 +73,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - 💰 Simple Interest Calculator - Done
 - 🪙 Coin Toss Game - Done
 - 🏏 Playing Position Decider - Done
+- 🏴‍☠️ Find the Treasure - Done
 - 🔐 Password Generator
 - 📊 Calculator
 - 📝 To-Do App
