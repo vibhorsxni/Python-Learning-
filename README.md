@@ -74,7 +74,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - 🪙 Coin Toss Game - Done
 - 🏏 Playing Position Decider - Done
 - 🏴‍☠️ Find the Treasure - Done
-- 🔐 Password Generator
+- 🔐 Password Generator - Done
 - 📊 Calculator
 - 📝 To-Do App
 - 🤖 Automation Scripts
