@@ -11,5 +11,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 💰 **Simple Interest Calculator** – Computes simple interest based on principal, rate & time
 - 🪙 **Coin Toss Game** – A random coin toss game with heads or tails
 - 🏆 **Playing Position Decider** – Randomly assigns playing order for a group of players
+- 🏴‍☠️ **Find the Treasure** – A matrix-based treasure hunting game with dynamic grid & chances
 
 ...and more to come as the journey continues!
