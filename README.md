@@ -13,5 +13,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🏆 **Playing Position Decider** – Randomly assigns playing order for a group of players
 - 🏴‍☠️ **Find the Treasure** – A matrix-based treasure hunting game with dynamic grid & chances
 - 🔐 **Password Generator** – A password generator that can use custom characters or generate randomly based on user specification.
+- 🎲 **Roll the Dice** – A dice rolling simulator with single/multiple dice support and a customizable loop.
 
 ...and more to come as the journey continues!
