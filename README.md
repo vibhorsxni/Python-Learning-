@@ -75,6 +75,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - 🏏 Playing Position Decider - Done
 - 🏴‍☠️ Find the Treasure - Done
 - 🔐 Password Generator - Done
+- 🎲 Roll the Dice - Done
 - 📊 Calculator
 - 📝 To-Do App
 - 🤖 Automation Scripts
