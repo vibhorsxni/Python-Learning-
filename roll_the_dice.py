@@ -1,4 +1,5 @@
 import random as r 
+import os 
 def roll_dice(dice_no) : 
     i = 0
     while (i<dice_no) :
@@ -74,8 +75,8 @@ if (dice_no == 0 ) :
 else : 
     roll_dice(dice_no)
     while True : 
-        
         choice = input("Do You Want to Roll Again(y/n): ")
+        os.system('cls') 
         if(choice in ["y","Y","n","N"]) :
             if (choice in ["y","Y"]) :
                 roll_dice(dice_no)
@@ -89,7 +90,6 @@ else :
 # that on my own may be later i will get that athough i got solution that from ai tools but i belive as i am learing i should learn on my own but can keep those things 
 # in my mind for next time to improve future works
 
-# still here is a combined version whole commented of the horizontral stacking and my mmethod and way i tackled it 
 """
 import random as r
 
