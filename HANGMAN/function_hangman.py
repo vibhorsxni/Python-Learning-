@@ -1,40 +1,28 @@
-import function_hangman
-import hangman_visuals
+from wonderwords import RandomWord 
 
-start = hangman_visuals.hangman_start()
-print(start)
+def choice_easy() :
+    r = RandomWord()
+    word = r.word(word_min_length = 5 , word_max_length = 7)
+    return word
 
-user_choice = input("Enter your choice for game toughness (E/M/H) : ")
+def choice_med() :
+    r = RandomWord()
+    word = r.word(word_min_length = 7 , word_max_length = 9)
+    return word
 
-if user_choice in ["E","e","M","m","H","h"]:
+def choice_hard() :
+    r = RandomWord()
+    word = r.word(word_min_length = 9 , word_max_length = 11)
+    return word
 
-    if user_choice in ["E","e"] :
-        word = function_hangman.choice_easy()
+def replace_blank(word,guess,blank_word) :
 
-    elif user_choice in ["M","m"]:
-        word = function_hangman.choice_med()
-    else:
-        word = function_hangman.choice_hard()
-    max_chances = len(word)
-    remaining_chances = max_chances
-    blank_word = "_" * len(word)
-    print(f"So You have got {max_chances} guess to find the word\nLet's see who wins 😁😁🥷")
-    while remaining_chances > 0:
-        print(blank_word)
-        guess = input("Enter the element you guess is right : ").lower()
-        old_blank = blank_word
-        blank_word = function_hangman.replace_blank(word,guess,blank_word)
-        if old_blank == blank_word:
+    for i in range(len(word)) :
+        if(guess == word[i]) :
+            blank_word = (blank_word[:i] + guess + blank_word[i+1:])
 
-            remaining_chances -= 1
-            print(hangman_visuals.draw_hangman(remaining_chances))
-            print(f"Wrong Guess! {remaining_chances} left")
-
-        if blank_word == word:
-
-            print("Congo You Won!!! 🎉")
-            break
-
-    else:
-        print("You Lost 😭")
-        print("Word was :", word)
+    return blank_word
+                
+def chance_left(remaining_chances) :
+    remaining_chances = remaining_chances - 1
+    return remaining_chances    
