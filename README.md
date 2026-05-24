@@ -14,7 +14,7 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🏴‍☠️ **Find the Treasure** – A matrix-based treasure hunting game with dynamic grid & chances
 - 🔐 **Password Generator** – A password generator that can use custom characters or generate randomly based on user specification.
 - 🎲 **Roll the Dice** – A dice rolling simulator with single/multiple dice support and a customizable loop.
-- 🪓 **Hangman** – A word guessing game with customizable difficulty levels (Easy/Medium/Hard) and dynamic ASCII art visuals.
-- 🎮 **Guessing Game** – A number guessing game supporting single-player (vs. Computer) or multiplayer modes with absolute-margin closeness calculation.
+- 🪓 **Hangman** – A word guessing game with customizable difficulty levels (Easy/Medium/Hard) 
+- 🎮 **Guessing Game** – A random number guessing game with single-player and multiplayer modes.
 
 ...and more to come as the journey continues!
