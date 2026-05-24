@@ -77,6 +77,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - 🔐 Password Generator - Done
 - 🎲 Roll the Dice - Done
 - 🪓 Hangman - Done
+- 🎮 Guessing Game - Done
 - 📊 Calculator
 - 📝 To-Do App
 - 🤖 Automation Scripts
