@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sharmili Chai — Special Edition by Sher</title>
+  <meta name="description" content="Order your favourite chai from Sharmili Chai — Masala, Ginger, Cardamom, Green Tea & Bubble Tea. Special Edition Chai by Sher." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Floating tea leaves background -->
+  <div class="bg-leaves" aria-hidden="true">
+    <span class="leaf">🍃</span>
+    <span class="leaf">🌿</span>
+    <span class="leaf">🍂</span>
+    <span class="leaf">🍃</span>
+    <span class="leaf">🌿</span>
+    <span class="leaf">🍂</span>
+    <span class="leaf">🍃</span>
+    <span class="leaf">🌿</span>
+  </div>
+
+  <!-- ─── HERO ─── -->
+  <header class="hero" id="hero">
+    <div class="hero-content">
+      <p class="hero-tag">Special Edition Chai by Sher</p>
+      <h1 class="hero-title">Sharmili <span class="accent">Chai</span></h1>
+      <p class="hero-sub">Handcrafted warmth in every sip ☕</p>
+      <button class="btn-primary" id="btn-order" onclick="scrollToMenu()">Order Now</button>
+    </div>
+    <div class="hero-cup" aria-hidden="true">☕</div>
+  </header>
+
+  <!-- ─── MENU SECTION ─── -->
+  <section class="section" id="menu-section">
+    <h2 class="section-title">Chai Menu</h2>
+    <p class="section-sub">Pick your perfect cup</p>
+
+    <div class="menu-grid" id="menu-grid">
+      <!-- Cards injected by JS -->
+    </div>
+  </section>
+
+  <!-- ─── ADD-ONS SECTION (hidden until tea selected) ─── -->
+  <section class="section hidden" id="addons-section">
+    <h2 class="section-title">Add-Ons</h2>
+    <p class="section-sub">Enhance your chai experience</p>
+
+    <div class="addons-grid" id="addons-grid">
+      <!-- Injected by JS -->
+    </div>
+
+    <div class="addon-actions">
+      <button class="btn-secondary" id="btn-skip-addon" onclick="skipAddon()">No Add-Ons</button>
+    </div>
+  </section>
+
+  <!-- ─── BILL / RECEIPT ─── -->
+  <section class="section hidden" id="bill-section">
+    <div class="receipt-card" id="receipt-card">
+      <div class="receipt-header">
+        <span class="receipt-logo">☕</span>
+        <h2>Sharmili Chai</h2>
+        <p class="receipt-tagline">Special Edition by Sher</p>
+      </div>
+      <div class="receipt-divider"></div>
+      <div class="receipt-items" id="receipt-items">
+        <!-- Injected -->
+      </div>
+      <div class="receipt-divider"></div>
+      <div class="receipt-total" id="receipt-total"></div>
+      <button class="btn-primary full-width" id="btn-new-order" onclick="resetOrder()">Order Again</button>
+    </div>
+  </section>
+
+  <!-- ─── FOOTER ─── -->
+  <footer class="footer">
+    <p>Made with ❤️ &amp; ☕ — Sharmili Chai &copy; 2026</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
