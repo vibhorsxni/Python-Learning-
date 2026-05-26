@@ -78,6 +78,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - 🎲 Roll the Dice - Done
 - 🪓 Hangman - Done
 - 🎮 Guessing Game - Done
+- 📂 Employee Management - Done
 - 📊 Calculator
 - 📝 To-Do App
 - 🤖 Automation Scripts
