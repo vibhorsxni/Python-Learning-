@@ -16,5 +16,6 @@ This branch contains a collection of basic Python projects built as part of my l
 - 🎲 **Roll the Dice** – A dice rolling simulator with single/multiple dice support and a customizable loop.
 - 🪓 **Hangman** – A word guessing game with customizable difficulty levels (Easy/Medium/Hard) and dynamic ASCII art visuals.
 - 🎮 **Guessing Game** – A number guessing game supporting single-player (vs. Computer) or multiplayer modes with absolute-margin closeness calculation.
+- 📂 **Employee Management** – A console-based employee record system allowing users to add, see, and delete employee records with automated ID generation.
 
 ...and more to come as the journey continues!
