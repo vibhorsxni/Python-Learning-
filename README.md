@@ -61,6 +61,7 @@ This repo represents my consistency, practice, mistakes, improvements, and growt
 - ✅ Master problem solving
 - ✅ Explore AI & ML
 - ✅ Stay consistent every day
+- ✅ NumPy Learned Successfully
 
 ---
 
