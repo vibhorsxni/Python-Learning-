@@ -1,0 +1,251 @@
+,Ranking,Movie,Release Year,Star Rating,Review Count,Licence Category,Movie Length 
+0,#1,The Shawshank Redemption,1994,9.3,(3.2M),2h 22m,R
+1,#2,The Godfather,1972,9.2,(2.2M),2h 55m,R
+2,#3,The Dark Knight,2008,9.1,(3.2M),2h 32m,PG-13
+3,#4,The Godfather Part II,1974,9.0,(1.5M),3h 22m,R
+4,#5,12 Angry Men,1957,9.0,(988K),1h 36m,Approved
+5,#6,The Lord of the Rings: The Return of the King,2003,9.0,(2.2M),3h 21m,PG-13
+6,#7,Schindler's List,1993,9.0,(1.6M),3h 15m,R
+7,#8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,(2.2M),2h 58m,PG-13
+8,#9,Pulp Fiction,1994,8.8,(2.4M),2h 34m,R
+9,#10,"The Good, the Bad and the Ugly",1966,8.8,(893K),2h 58m,R
+10,#11,The Lord of the Rings: The Two Towers,2002,8.8,(2M),2h 59m,PG-13
+11,#12,Forrest Gump,1994,8.8,(2.5M),2h 22m,PG-13
+12,#13,Fight Club,1999,8.8,(2.6M),2h 19m,R
+13,#14,Inception,2010,8.8,(2.8M),2h 28m,PG-13
+14,#15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,(1.5M),2h 4m,PG
+15,#16,The Matrix,1999,8.7,(2.3M),2h 16m,R
+16,#17,Interstellar,2014,8.7,(2.5M),2h 49m,PG-13
+17,#18,GoodFellas,1990,8.7,(1.4M),2h 25m,R
+18,#19,One Flew Over the Cuckoo's Nest,1975,8.6,(1.2M),2h 13m,R
+19,#20,Seven,1995,8.6,(2M),2h 7m,R
+20,#21,It's a Wonderful Life,1946,8.6,(555K),2h 10m,PG
+21,#22,The Silence of the Lambs,1991,8.6,(1.7M),1h 58m,R
+22,#23,Saving Private Ryan,1998,8.6,(1.6M),2h 49m,R
+23,#24,Seven Samurai,1954,8.6,(403K),3h 27m,Not Rated
+24,#25,The Green Mile,1999,8.6,(1.6M),3h 9m,R
+25,#26,City of God,2002,8.6,(874K),2h 10m,R
+26,#27,Life Is Beautiful,1997,8.6,(815K),1h 56m,PG-13
+27,#28,Terminator 2: Judgment Day,1991,8.6,(1.3M),2h 17m,R
+28,#29,Back to the Future,1985,8.5,(1.5M),1h 56m,PG
+29,#30,Star Wars: Episode IV - A New Hope,1977,8.6,(1.6M),2h 1m,PG
+30,#31,Kill Bill: The Whole Bloody Affair,2004,8.7,(45K),4h 13m,Not Rated
+31,#32,Spirited Away,2001,8.6,(972K),2h 4m,PG
+32,#33,Gladiator,2000,8.5,(1.9M),2h 35m,R
+33,#34,The Pianist,2002,8.5,(1M),2h 30m,R
+34,#35,Parasite,2019,8.5,(1.2M),2h 12m,R
+35,#36,Grave of the Fireflies,1988,8.5,(389K),1h 28m,Not Rated
+36,#37,Psycho,1960,8.5,(788K),1h 49m,R
+37,#38,Harakiri,1962,8.6,(92K),2h 13m,Not Rated
+38,#39,The Lion King,1994,8.5,(1.3M),1h 28m,G
+39,#40,The Departed,2006,8.5,(1.6M),2h 31m,R
+40,#41,Whiplash,2014,8.5,(1.2M),1h 46m,R
+41,#42,The Prestige,2006,8.5,(1.6M),2h 10m,PG-13
+42,#43,American History X,1998,8.5,(1.3M),1h 59m,R
+43,#44,Léon: The Professional,1994,8.5,(1.4M),1h 50m,R
+44,#45,Spider-Man: Across the Spider-Verse,2023,8.5,(532K),2h 20m,PG
+45,#46,Cinema Paradiso,1988,8.5,(318K),2h 54m,PG
+46,#47,Casablanca,1942,8.5,(656K),1h 42m,PG
+47,#48,The Intouchables,2011,8.5,(1M),1h 52m,R
+48,#49,The Usual Suspects,1995,8.5,(1.2M),1h 46m,R
+49,#50,Django Unchained,2012,8.5,(1.9M),2h 45m,R
+50,#51,Alien,1979,8.4,(1.1M),1h 57m,R
+51,#52,Rear Window,1954,8.4,(570K),1h 52m,PG
+52,#53,Modern Times,1936,8.5,(286K),1h 27m,G
+53,#54,Once Upon a Time in the West,1968,8.5,(385K),2h 25m,PG-13
+54,#55,City Lights,1931,8.5,(217K),1h 27m,G
+55,#56,WALL·E,2008,8.4,(1.3M),1h 38m,G
+56,#57,Apocalypse Now,1979,8.4,(772K),2h 27m,R
+57,#58,Memento,2000,8.4,(1.4M),1h 53m,R
+58,#59,Dune: Part Two,2024,8.4,(766K),2h 46m,PG-13
+59,#60,Avengers: Infinity War,2018,8.4,(1.4M),2h 29m,PG-13
+60,#61,Raiders of the Lost Ark,1981,8.4,(1.1M),1h 55m,PG
+61,#62,Spider-Man: Into the Spider-Verse,2018,8.4,(796K),1h 57m,PG
+62,#63,The Lives of Others,2006,8.4,(444K),2h 17m,R
+63,#64,Sunset Boulevard,1950,8.4,(262K),1h 50m,Approved
+64,#65,Witness for the Prosecution,1957,8.4,(163K),1h 56m,Approved
+65,#66,Paths of Glory,1957,8.4,(240K),1h 28m,Approved
+66,#67,The Shining,1980,8.4,(1.2M),2h 26m,R
+67,#68,The Great Dictator,1940,8.4,(259K),2h 5m,G
+68,#69,Inglourious Basterds,2009,8.4,(1.8M),2h 33m,R
+69,#70,Aliens,1986,8.4,(842K),2h 17m,R
+70,#71,12th Fail,2023,8.7,(173K),2h 27m,
+71,#72,High and Low,1963,8.4,(72K),2h 23m,Not Rated
+72,#73,Avengers: Endgame,2019,8.4,(1.5M),3h 1m,PG-13
+73,#74,Good Will Hunting,1997,8.4,(1.2M),2h 6m,R
+74,#75,The Dark Knight Rises,2012,8.4,(2M),2h 44m,PG-13
+75,#76,Coco,2017,8.4,(713K),1h 45m,PG
+76,#77,Amadeus,1984,8.4,(470K),2h 40m,PG
+77,#78,Toy Story,1995,8.3,(1.2M),1h 21m,G
+78,#79,Your Name.,2016,8.4,(396K),1h 46m,
+79,#80,Das Boot,1981,8.3,(289K),2h 29m,
+80,#81,Braveheart,1995,8.3,(1.2M),2h 58m,R
+81,#82,Princess Mononoke,1997,8.3,(485K),2h 13m,PG-13
+82,#83,Oldboy,2003,8.3,(723K),2h,R
+83,#84,3 Idiots,2009,8.4,(484K),2h 50m,PG-13
+84,#85,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,(551K),1h 35m,PG
+85,#86,American Beauty,1999,8.3,(1.3M),2h 2m,R
+86,#87,Capernaum,2018,8.4,(125K),2h 6m,R
+87,#88,Singin' in the Rain,1952,8.3,(284K),1h 43m,G
+88,#89,Joker,2019,8.3,(1.7M),2h 2m,R
+89,#90,Once Upon a Time in America,1984,8.3,(409K),3h 49m,R
+90,#91,Toy Story 3,2010,8.3,(977K),1h 43m,G
+91,#92,Star Wars: Episode VI - Return of the Jedi,1983,8.3,(1.2M),2h 11m,PG
+92,#93,Come and See,1985,8.3,(124K),2h 22m,Not Rated
+93,#94,Requiem for a Dream,2000,8.3,(977K),1h 42m,NC-17
+94,#95,Ikiru,1952,8.3,(103K),2h 23m,Not Rated
+95,#96,The Hunt,2012,8.3,(412K),1h 55m,R
+96,#97,Incendies,2010,8.3,(253K),2h 11m,R
+97,#98,Eternal Sunshine of the Spotless Mind,2004,8.3,(1.2M),1h 48m,R
+98,#99,The Apartment,1960,8.3,(220K),2h 5m,Approved
+99,#100,Lawrence of Arabia,1962,8.3,(342K),3h 47m,Approved
+100,#101,Heat,1995,8.3,(808K),2h 50m,R
+101,#102,Scarface,1983,8.3,(1M),2h 50m,R
+102,#103,Reservoir Dogs,1992,8.3,(1.2M),1h 39m,R
+103,#104,2001: A Space Odyssey,1968,8.3,(786K),2h 29m,G
+104,#105,Up,2009,8.3,(1.2M),1h 36m,PG
+105,#106,Double Indemnity,1944,8.3,(182K),1h 47m,Approved
+106,#107,North by Northwest,1959,8.3,(369K),2h 16m,Approved
+107,#108,Like Stars on Earth,2007,8.3,(233K),2h 42m,PG
+108,#109,Full Metal Jacket,1987,8.2,(852K),1h 56m,R
+109,#110,M,1931,8.3,(183K),1h 39m,Passed
+110,#111,A Separation,2011,8.3,(279K),2h 3m,PG-13
+111,#112,Amélie,2001,8.3,(842K),2h 2m,R
+112,#113,Vertigo,1958,8.2,(459K),2h 8m,PG
+113,#114,Citizen Kane,1941,8.2,(494K),1h 59m,PG
+114,#115,Die Hard,1988,8.2,(1M),2h 12m,R
+115,#116,To Kill a Mockingbird,1962,8.2,(351K),2h 9m,Approved
+116,#117,Indiana Jones and the Last Crusade,1989,8.2,(865K),2h 7m,PG-13
+117,#118,The Sting,1973,8.2,(303K),2h 9m,PG
+118,#119,I Swear,2025,8.4,(51K),2h,R
+119,#120,A Clockwork Orange,1971,8.2,(938K),2h 16m,R
+120,#121,Metropolis,1927,8.2,(202K),2h 30m,Passed
+121,#122,1917,2019,8.2,(775K),1h 59m,R
+122,#123,Snatch,2000,8.2,(979K),1h 42m,R
+123,#124,The Wolf of Wall Street,2013,8.2,(1.8M),3h,R
+124,#125,The Truman Show,1998,8.2,(1.4M),1h 43m,PG
+125,#126,Downfall,2004,8.2,(401K),2h 36m,R
+126,#127,L.A. Confidential,1997,8.2,(660K),2h 18m,R
+127,#128,Attack on Titan: The Last Attack,2024,9.0,(31K),2h 25m,
+128,#129,Dangal,2016,8.3,(245K),2h 41m,Not Rated
+129,#130,Shutter Island,2010,8.2,(1.7M),2h 18m,R
+130,#131,Bicycle Thieves,1948,8.2,(192K),1h 29m,Not Rated
+131,#132,Green Book,2018,8.2,(692K),2h 10m,PG-13
+132,#133,Oppenheimer,2023,8.2,(1.1M),3h,R
+133,#134,Judgment at Nuremberg,1961,8.3,(97K),2h 59m,Approved
+134,#135,Batman Begins,2005,8.2,(1.7M),2h 20m,PG-13
+135,#136,Jurassic Park,1993,8.2,(1.2M),2h 7m,PG-13
+136,#137,For a Few Dollars More,1965,8.2,(301K),2h 12m,R
+137,#138,Hamilton,2020,8.3,(140K),2h 40m,PG-13
+138,#139,Project Hail Mary,2026,8.2,(374K),2h 36m,PG-13
+139,#140,Taxi Driver,1976,8.2,(1M),1h 54m,R
+140,#141,Some Like It Hot,1959,8.2,(305K),2h 1m,Approved
+141,#142,There Will Be Blood,2007,8.2,(712K),2h 38m,R
+142,#143,The Father,2020,8.2,(246K),1h 37m,PG-13
+143,#144,The Kid,1921,8.2,(146K),1h 8m,Passed
+144,#145,All About Eve,1950,8.2,(150K),2h 18m,Approved
+145,#146,The Sixth Sense,1999,8.2,(1.1M),1h 47m,PG-13
+146,#147,Ran,1985,8.2,(153K),2h 40m,R
+147,#148,Casino,1995,8.2,(622K),2h 58m,R
+148,#149,The Thing,1982,8.2,(528K),1h 49m,R
+149,#150,No Country for Old Men,2007,8.2,(1.2M),2h 2m,R
+150,#151,Prisoners,2013,8.2,(942K),2h 33m,R
+151,#152,Top Gun: Maverick,2022,8.2,(885K),2h 10m,PG-13
+152,#153,Kill Bill: Vol. 1,2003,8.2,(1.3M),1h 51m,R
+153,#154,Pan's Labyrinth,2006,8.2,(748K),1h 58m,R
+154,#155,Unforgiven,1992,8.2,(469K),2h 10m,R
+155,#156,A Beautiful Mind,2001,8.2,(1.1M),2h 15m,PG-13
+156,#157,Howl's Moving Castle,2004,8.2,(515K),1h 59m,PG
+157,#158,The Treasure of the Sierra Madre,1948,8.2,(142K),2h 6m,Approved
+158,#159,Finding Nemo,2003,8.2,(1.2M),1h 40m,G
+159,#160,Klaus,2019,8.2,(239K),1h 36m,PG
+160,#161,Yojimbo,1961,8.2,(144K),1h 50m,Not Rated
+161,#162,The Elephant Man,1980,8.2,(282K),2h 4m,PG
+162,#163,The Great Escape,1963,8.2,(278K),2h 52m,Approved
+163,#164,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,8.4,(74K),2h 35m,R
+164,#165,Monty Python and the Holy Grail,1975,8.1,(604K),1h 31m,PG
+165,#166,Dial M for Murder,1954,8.1,(205K),1h 45m,PG
+166,#167,The Secret in Their Eyes,2009,8.2,(243K),2h 9m,R
+167,#168,Gone with the Wind,1939,8.2,(356K),3h 58m,G
+168,#169,"Lock, Stock and Two Smoking Barrels",1998,8.1,(650K),1h 47m,R
+169,#170,Chinatown,1974,8.1,(377K),2h 10m,R
+170,#171,The Best of Youth,2003,8.4,(28K),6h 14m,R
+171,#172,V for Vendetta,2005,8.1,(1.2M),2h 12m,R
+172,#173,Catch Me If You Can,2002,8.1,(1.2M),2h 21m,PG-13
+173,#174,Inside Out,2015,8.1,(920K),1h 35m,PG
+174,#175,Trainspotting,1996,8.1,(770K),1h 33m,R
+175,#176,"Three Billboards Outside Ebbing, Missouri",2017,8.1,(610K),1h 55m,R
+176,#177,Dead Poets Society,1989,8.1,(657K),2h 8m,PG
+177,#178,Rashomon,1950,8.1,(197K),1h 28m,Not Rated
+178,#179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,(1.1M),2h 10m,PG-13
+179,#180,The Bridge on the River Kwai,1957,8.1,(249K),2h 41m,PG
+180,#181,The Wild Robot,2024,8.2,(228K),1h 42m,PG
+181,#182,Barry Lyndon,1975,8.1,(206K),3h 5m,PG
+182,#183,Ben-Hur,1959,8.1,(272K),3h 32m,G
+183,#184,Warrior,2011,8.1,(530K),2h 20m,PG-13
+184,#185,Fargo,1996,8.1,(789K),1h 38m,R
+185,#186,Hacksaw Ridge,2016,8.1,(685K),2h 19m,R
+186,#187,Mad Max: Fury Road,2015,8.1,(1.2M),2h,R
+187,#188,Million Dollar Baby,2004,8.1,(768K),2h 12m,PG-13
+188,#189,Children of Heaven,1997,8.2,(90K),1h 29m,PG
+189,#190,My Neighbor Totoro,1988,8.1,(434K),1h 26m,G
+190,#191,Ratatouille,2007,8.1,(950K),1h 51m,G
+191,#192,Raging Bull,1980,8.1,(411K),2h 9m,R
+192,#193,Gran Torino,2008,8.1,(864K),1h 56m,R
+193,#194,12 Years a Slave,2013,8.1,(789K),2h 14m,R
+194,#195,The Grand Budapest Hotel,2014,8.1,(976K),1h 39m,R
+195,#196,Memories of Murder,2003,8.1,(269K),2h 11m,Not Rated
+196,#197,How to Train Your Dragon,2010,8.1,(898K),1h 38m,PG
+197,#198,Before Sunrise,1995,8.1,(380K),1h 41m,R
+198,#199,Blade Runner,1982,8.1,(884K),1h 57m,R
+199,#200,"Monsters, Inc.",2001,8.1,(1.1M),1h 32m,G
+200,#201,Gone Girl,2014,8.1,(1.2M),2h 29m,R
+201,#202,Spider-Man: No Way Home,2021,8.1,(1M),2h 28m,PG-13
+202,#203,Jaws,1975,8.1,(741K),2h 4m,PG
+203,#204,Ford v Ferrari,2019,8.1,(576K),2h 32m,PG-13
+204,#205,In the Name of the Father,1993,8.1,(203K),2h 13m,R
+205,#206,Wild Tales,2014,8.1,(239K),2h 2m,R
+206,#207,The Gold Rush,1925,8.1,(128K),1h 35m,Approved
+207,#208,Sherlock Jr.,1924,8.1,(66K),45m,Passed
+208,#209,Mary and Max,2009,8.1,(202K),1h 32m,Not Rated
+209,#210,The Deer Hunter,1978,8.1,(387K),3h 3m,R
+210,#211,The Chaos Class Failed the Class,1975,8.4,(31K),1h 35m,
+211,#212,The Wages of Fear,1953,8.1,(74K),2h 36m,Not Rated
+212,#213,Chainsaw Man - The Movie: Reze Arc,2025,8.3,(61K),1h 40m,R
+213,#214,The General,1926,8.1,(105K),1h 18m,Passed
+214,#215,Logan,2017,8.1,(930K),2h 17m,R
+215,#216,Rocky,1976,8.1,(692K),2h,PG
+216,#217,A Silent Voice: The Movie,2016,8.2,(145K),2h 10m,Not Rated
+217,#218,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,(1.3M),2h 23m,PG-13
+218,#219,Mr. Smith Goes to Washington,1939,8.1,(130K),2h 9m,Approved
+219,#220,Tokyo Story,1953,8.1,(78K),2h 17m,Not Rated
+220,#221,La haine,1995,8.1,(228K),1h 38m,Not Rated
+221,#222,Spotlight,2015,8.1,(537K),2h 9m,R
+222,#223,On the Waterfront,1954,8.1,(179K),1h 48m,Approved
+223,#224,The Sound of Music,1965,8.1,(292K),2h 54m,G
+224,#225,Wild Strawberries,1957,8.1,(125K),1h 32m,Not Rated
+225,#226,Jai Bhim,2021,8.6,(235K),2h 44m,Approved
+226,#227,The Terminator,1984,8.1,(1M),1h 47m,R
+227,#228,Maharaja,2024,8.3,(83K),2h 21m,
+228,#229,The Third Man,1949,8.1,(196K),1h 44m,Approved
+229,#230,The Best Years of Our Lives,1946,8.1,(76K),2h 50m,Approved
+230,#231,The Big Lebowski,1998,8.1,(918K),1h 57m,R
+231,#232,Before Sunset,2004,8.1,(317K),1h 20m,R
+232,#233,The Incredibles,2004,8.0,(905K),1h 55m,PG
+233,#234,Room,2015,8.1,(481K),1h 58m,R
+234,#235,Hachi: A Dog's Tale,2009,8.1,(344K),1h 33m,G
+235,#236,The Seventh Seal,1957,8.1,(216K),1h 36m,Not Rated
+236,#237,Hotel Rwanda,2004,8.1,(393K),2h 1m,PG-13
+237,#238,Platoon,1986,8.1,(473K),2h,R
+238,#239,The Exorcist,1973,8.1,(500K),2h 2m,R
+239,#240,The Iron Giant,1999,8.1,(262K),1h 26m,PG
+240,#241,Rush,2013,8.1,(561K),2h 3m,R
+241,#242,The Wizard of Oz,1939,8.1,(469K),1h 42m,G
+242,#243,Stand by Me,1986,8.1,(489K),1h 29m,R
+243,#244,The Battle of Algiers,1966,8.1,(76K),2h 1m,Not Rated
+244,#245,My Father and My Son,2005,8.2,(101K),1h 52m,Not Rated
+245,#246,The Passion of Joan of Arc,1928,8.1,(69K),1h 54m,Passed
+246,#247,Obsession,2025,8.1,(123K),1h 48m,R
+247,#248,The Handmaiden,2016,8.1,(205K),2h 25m,Not Rated
+248,#249,Drishyam,2013,8.4,(49K),2h 40m,Not Rated
+249,#250,96,2018,8.5,(46K),2h 38m,

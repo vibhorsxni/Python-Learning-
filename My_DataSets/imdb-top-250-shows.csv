@@ -1,0 +1,251 @@
+,Ranking,Movie,Release Year,Star Rating,Review Count,Licence Category,Show Type 
+0,#1,Breaking Bad,2008–2013,9.5,(2.6M),TV-MA,TV Series
+1,#2,Planet Earth II,2016,9.4,(176K),TV-G,TV Mini Series
+2,#3,Planet Earth,2006,9.4,(236K),TV-PG,TV Mini Series
+3,#4,Band of Brothers,2001,9.4,(597K),TV-MA,TV Mini Series
+4,#5,Chernobyl,2019,9.3,(1M),TV-MA,TV Mini Series
+5,#6,The Wire,2002–2008,9.3,(433K),TV-MA,TV Series
+6,#7,Avatar: The Last Airbender,2005–2008,9.3,(446K),TV-Y7-FV,TV Series
+7,#8,The Sopranos,1999–2007,9.2,(584K),TV-MA,TV Series
+8,#9,Blue Planet II,2017,9.3,(58K),TV-G,TV Mini Series
+9,#10,Cosmos: A Spacetime Odyssey,2014,9.2,(140K),TV-PG,TV Mini Series
+10,#11,Cosmos,1980,9.3,(53K),TV-PG,TV Mini Series
+11,#12,Our Planet,2019–2023,9.2,(63K),TV-PG,TV Series
+12,#13,Game of Thrones,2011–2019,9.2,(2.6M),TV-MA,TV Series
+13,#14,Bluey,2018–,9.3,(48K),TV-Y,TV Series
+14,#15,The World at War,1973–1974,9.2,(38K),TV-PG,TV Series
+15,#16,Fullmetal Alchemist: Brotherhood,2009–2010,9.1,(251K),TV-14,TV Series
+16,#17,Attack on Titan,2013–2023,9.1,(726K),TV-MA,TV Series
+17,#18,Life,2009,9.1,(50K),TV-G,TV Mini Series
+18,#19,The Last Dance,2020,9.0,(182K),TV-MA,TV Mini Series
+19,#20,The Twilight Zone,1959–1964,9.0,(109K),TV-PG,TV Series
+20,#21,The Vietnam War,2017,9.1,(37K),TV-MA,TV Mini Series
+21,#22,Rick and Morty,2013–,9.0,(700K),TV-MA,TV Series
+22,#23,Sherlock,2010–2017,9.0,(1.1M),TV-14,TV Series
+23,#24,Batman: The Animated Series,1992–1995,9.0,(138K),TV-PG,TV Series
+24,#25,Better Call Saul,2015–2022,9.0,(844K),TV-MA,TV Series
+25,#26,The Office,2005–2013,9.0,(838K),TV-14,TV Series
+26,#27,Arcane,2021–2024,9.0,(448K),TV-14,TV Series
+27,#28,The Blue Planet,2001,9.0,(51K),TV-G,TV Mini Series
+28,#29,Clarkson's Farm,2021–,9.0,(88K),TV-PG,TV Series
+29,#30,Hunter X Hunter,2011–2014,9.0,(198K),TV-14,TV Series
+30,#31,Scam 1992: The Harshad Mehta Story,2020,9.2,(174K),TV-14,TV Mini Series
+31,#32,Frozen Planet,2011–2012,9.0,(40K),TV-PG,TV Mini Series
+32,#33,Only Fools and Horses,1981–2003,9.0,(66K),TV-PG,TV Series
+33,#34,Human Planet,2011,9.0,(34K),TV-PG,TV Mini Series
+34,#35,The Beatles Anthology,1995–1996,9.1,(11K),TV-14,TV Mini Series
+35,#36,Dexter: Resurrection,2025–,9.0,(147K),TV-MA,TV Series
+36,#37,The Civil War,1990,9.0,(26K),TV-14,TV Mini Series
+37,#38,As If,2021–2025,9.0,(37K),TV Series,
+38,#39,The Pitt,2025–,8.9,(156K),TV-MA,TV Series
+39,#40,Firefly,2002–2003,8.9,(303K),TV-14,TV Series
+40,#41,Gravity Falls,2012–2016,8.9,(180K),TV-Y7,TV Series
+41,#42,Death Note,2006–2007,8.9,(487K),TV-14,TV Series
+42,#43,Frieren: Beyond Journey's End,2023–,8.9,(79K),TV-14,TV Series
+43,#44,Taskmaster,2015–,9.0,(32K),TV-14,TV Series
+44,#45,Dekalog,1989–1990,8.9,(35K),TV-MA,TV Mini Series
+45,#46,Seinfeld,1989–1998,8.9,(386K),TV-PG,TV Series
+46,#47,The Beatles: Get Back,2021,8.9,(37K),TV-MA,TV Mini Series
+47,#48,Nathan for You,2013–2017,8.9,(50K),TV-14,TV Series
+48,#49,Cowboy Bebop,1998–1999,8.9,(170K),TV-14,TV Series
+49,#50,True Detective,2014–,8.8,(759K),TV-MA,TV Series
+50,#51,Apocalypse: The Second World War,2009,9.0,(21K),TV-MA,TV Mini Series
+51,#52,Fargo,2014–2024,8.8,(471K),TV-MA,TV Series
+52,#53,Persona,2018–2024,8.9,(57K),TV-MA,TV Series
+53,#54,One Piece,1999–,9.0,(358K),TV-14,TV Series
+54,#55,Africa,2013,8.9,(23K),TV-PG,TV Mini Series
+55,#56,The Chosen,2017–,9.1,(70K),TV-PG,TV Series
+56,#57,Bleach: Thousand-Year Blood War,2022–,9.0,(77K),TV-14,TV Series
+57,#58,The West Wing,1999–2006,8.9,(100K),TV-14,TV Series
+58,#59,Friends,1994–2004,8.8,(1.2M),TV-14,TV Series
+59,#60,When They See Us,2019,8.8,(160K),TV-MA,TV Mini Series
+60,#61,It's Always Sunny in Philadelphia,2005–,8.8,(282K),TV-MA,TV Series
+61,#62,Last Week Tonight with John Oliver,2014–,8.8,(105K),TV-MA,TV Series
+62,#63,When Life Gives You Tangerines,2025,9.0,(40K),TV-14,TV Series
+63,#64,TVF Pitchers,2015–2022,9.0,(80K),TV-MA,TV Series
+64,#65,Succession,2018–2023,8.8,(360K),TV-MA,TV Series
+65,#66,Curb Your Enthusiasm,2000–2024,8.8,(167K),TV-MA,TV Series
+66,#67,BoJack Horseman,2014–2020,8.8,(235K),TV-MA,TV Series
+67,#68,Das Boot,1985,8.8,(40K),TV-MA,TV Mini Series
+68,#69,Vinland Saga,2019–2023,8.9,(143K),TV-MA,TV Series
+69,#70,Monty Python's Flying Circus,1969–1974,8.8,(87K),TV-14,TV Series
+70,#71,Panchayat,2020–,9.0,(118K),TV-14,TV Series
+71,#72,Fawlty Towers,1975–1979,8.8,(112K),TV-PG,TV Series
+72,#73,Gullak,2019–,9.1,(31K),TV Series,
+73,#74,Dragon Ball Z,1996–2003,8.8,(178K),TV-PG,TV Series
+74,#75,Blackadder Goes Forth,1989,8.8,(65K),TV-PG,TV Series
+75,#76,Leyla and Mecnun,2011–2023,9.0,(104K),TV-PG,TV Series
+76,#77,Dragon Ball Z,1989–1996,8.8,(104K),TV-PG,TV Series
+77,#78,Freaks and Geeks,1999–2000,8.7,(165K),TV-14,TV Series
+78,#79,Chappelle's Show,2003–2006,8.8,(79K),TV-MA,TV Series
+79,#80,Pride and Prejudice,1995,8.8,(104K),TV-PG,TV Mini Series
+80,#81,Twin Peaks,1990–1991,8.7,(248K),TV-MA,TV Series
+81,#82,Narcos,2015–2017,8.7,(530K),TV-MA,TV Series
+82,#83,Reply 1988,2015–2016,9.0,(19K),TV Series,
+83,#84,"I, Claudius",1976,8.8,(22K),Not Rated,TV Mini Series
+84,#85,South Park,1997–,8.7,(445K),TV-MA,TV Series
+85,#86,Kota Factory,2019–2021,9.0,(93K),TV-14,TV Series
+86,#87,Berserk,1997–1998,8.8,(80K),TV-MA,TV Series
+87,#88,Steins; Gate,2011–2015,8.8,(94K),TV-14,TV Series
+88,#89,Ted Lasso,2020–,8.7,(448K),TV-MA,TV Series
+89,#90,Over the Garden Wall,2014,8.7,(90K),TV-PG,TV Mini Series
+90,#91,My Mister,2018,9.0,(16K),TV-14,TV Series
+91,#92,Black Mirror,2011–,8.7,(741K),TV-MA,TV Series
+92,#93,Peaky Blinders,2013–2022,8.7,(781K),TV-MA,TV Series
+93,#94,Six Feet Under,2001–2005,8.7,(169K),TV-MA,TV Series
+94,#95,Rome,2005–2007,8.7,(205K),TV-MA,TV Series
+95,#96,Dark,2017–2020,8.7,(551K),TV-MA,TV Series
+96,#97,Oz,1997–2003,8.7,(117K),TV-MA,TV Series
+97,#98,Monster,2004–2005,8.7,(72K),TV-14,TV Series
+98,#99,X-Men '97,2024–,8.7,(54K),TV-14,TV Series
+99,#100,Naruto: Shippuden,2007–2017,8.7,(225K),TV-PG,TV Series
+100,#101,The Grand Tour,2016–,8.7,(95K),TV-14,TV Series
+101,#102,Invincible,2021–,8.7,(345K),TV-MA,TV Series
+102,#103,The Shield,2002–2008,8.7,(97K),TV-MA,TV Series
+103,#104,Downton Abbey,2010–2015,8.7,(247K),TV-PG,TV Series
+104,#105,Fleabag,2016–2019,8.7,(248K),TV-MA,TV Series
+105,#106,Battlestar Galactica,2004–2009,8.7,(187K),TV-14,TV Series
+106,#107,Peep Show,2003–2015,8.7,(74K),TV-MA,TV Series
+107,#108,Star Trek: The Next Generation,1987–1994,8.7,(150K),TV-PG,TV Series
+108,#109,Mad Men,2007–2015,8.7,(291K),TV-MA,TV Series
+109,#110,Still Game,2002–2019,8.9,(11K),TV-14,TV Series
+110,#111,Blue Eye Samurai,2023–,8.7,(105K),TV-MA,TV Series
+111,#112,Mahabharat,1988–1990,8.9,(28K),TV-14,TV Series
+112,#113,The Simpsons,1989–,8.6,(470K),TV-14,TV Series
+113,#114,House,2004–2012,8.7,(595K),TV-14,TV Series
+114,#115,Justice League Unlimited,2004–2006,8.7,(26K),TV-Y7-FV,TV Series
+115,#116,The Adventures of Sherlock Holmes,1984–1985,8.7,(27K),TV-PG,TV Series
+116,#117,Line of Duty,2012–,8.7,(81K),TV-14,TV Series
+117,#118,Top Gear,2002–2022,8.7,(137K),TV-PG,TV Series
+118,#119,Ramayan,1987–1988,9.0,(28K),TV-14,TV Series
+119,#120,Friday Night Lights,2006–2011,8.7,(79K),TV-14,TV Series
+120,#121,Severance,2022–,8.6,(394K),TV-MA,TV Series
+121,#122,Arrested Development,2003–2019,8.6,(345K),TV-14,TV Series
+122,#123,Code Geass: Lelouch of the Rebellion,2006–2008,8.7,(106K),TV-14,TV Series
+123,#124,The Marvelous Mrs. Maisel,2017–2023,8.6,(159K),TV-MA,TV Series
+124,#125,Fighting Spirit,2000–2002,8.8,(19K),TV-PG,TV Series
+125,#126,How to with John Wilson,2020–2023,8.7,(17K),TV-MA,TV Series
+126,#127,Behzat Ç: An Ankara Detective Story,2010–2019,8.8,(36K),TV-14,TV Series
+127,#128,This Is Us,2016–2022,8.7,(175K),TV-14,TV Series
+128,#129,Aspirants,2021–,9.1,(319K),TV Series,
+129,#130,The Thick of It,2005–2012,8.7,(30K),TV-MA,TV Series
+130,#131,Mr Inbetween,2018–2021,8.7,(52K),TV-MA,TV Series
+131,#132,Adventure Time,2010–2018,8.7,(134K),TV-PG,TV Series
+132,#133,Father Ted,1995–1998,8.6,(48K),TV-14,TV Series
+133,#134,Dexter,2006–2013,8.6,(941K),TV-MA,TV Series
+134,#135,The X-Files,1993–2018,8.6,(274K),TV-14,TV Series
+135,#136,Parks and Recreation,2009–2015,8.6,(316K),TV-14,TV Series
+136,#137,1883,2021–2022,8.6,(167K),TV-MA,TV Mini Series
+137,#138,A Knight of the Seven Kingdoms,2026–,8.6,(258K),TV-MA,TV Series
+138,#139,Poirot,1989–2013,8.6,(59K),TV-14,TV Series
+139,#140,Sarabhai V/S Sarabhai,2004–2017,8.8,(20K),TV-PG,TV Series
+140,#141,Deadwood,2004–2006,8.6,(129K),TV-MA,TV Series
+141,#142,Atlanta,2016–2022,8.6,(99K),TV-MA,TV Series
+142,#143,The Crown,2016–2023,8.6,(282K),TV-MA,TV Series
+143,#144,Daredevil,2015–2018,8.6,(535K),TV-MA,TV Series
+144,#145,The Bridge,2011–2018,8.6,(85K),TV-MA,TV Series
+145,#146,House of Cards,2013–2018,8.6,(560K),TV-MA,TV Series
+146,#147,It's a Sin,2021,8.6,(41K),TV-MA,TV Mini Series
+147,#148,Mindhunter,2017–2019,8.6,(400K),TV-MA,TV Series
+148,#149,Lonesome Dove,1989,8.6,(30K),TV-14,TV Mini Series
+149,#150,Mr. Bean,1990–1995,8.6,(152K),Not Rated,TV Series
+150,#151,Primal,2019–,8.6,(30K),TV-MA,TV Series
+151,#152,Sapne Vs Everyone,2023–,9.2,(86K),TV Series,
+152,#153,The Mandalorian,2019–2023,8.6,(660K),TV-14,TV Series
+153,#154,Blackadder II,1986,8.6,(54K),TV-PG,TV Series
+154,#155,Haikyuu!!,2014–2020,8.7,(55K),TV-14,TV Series
+155,#156,Farouk Omar,2012,9.0,(11K),Approved,TV Series
+156,#157,One Punch Man,2015–,8.6,(227K),TV-PG,TV Series
+157,#158,The Bureau,2015–2020,8.7,(19K),TV-MA,TV Series
+158,#159,Crash Landing on You,2019–2020,8.7,(59K),TV-14,TV Mini Series
+159,#160,Shōgun,2024–2026,8.6,(248K),TV-MA,TV Series
+160,#161,The Offer,2022,8.6,(51K),TV-MA,TV Mini Series
+161,#162,Yes Minister,1980–1984,8.6,(19K),TV-PG,TV Series
+162,#163,Andor,2022–2025,8.6,(280K),TV-14,TV Series
+163,#164,El Chavo,1972–1983,8.7,(17K),TV-PG,TV Series
+164,#165,The Return of Sherlock Holmes,1986–1988,8.7,(15K),TV-PG,TV Series
+165,#166,Pose,2018–2021,8.6,(37K),TV-MA,TV Series
+166,#167,Gomorrah,2014–2021,8.6,(50K),TV-MA,TV Series
+167,#168,Greatest Events of WWII in Colour,2019,8.6,(14K),TV Mini Series,
+168,#169,The Jinx: The Life and Deaths of Robert Durst,2015–2024,8.6,(59K),TV-14,TV Series
+169,#170,Blackadder the Third,1987,8.6,(51K),TV-PG,TV Series
+170,#171,The Penguin,2024,8.6,(241K),TV-MA,TV Mini Series
+171,#172,The Newsroom,2012–2014,8.6,(136K),TV-MA,TV Series
+172,#173,Heated Rivalry,2025–,8.7,(109K),TV-MA,TV Series
+173,#174,Anne with an E,2017–2019,8.6,(82K),TV-PG,TV Series
+174,#175,Homicide: Life on the Street,1993–1999,8.7,(17K),TV-14,TV Series
+175,#176,Boardwalk Empire,2010–2014,8.5,(219K),TV-MA,TV Series
+176,#177,Stranger Things,2016–2025,8.6,(1.7M),TV-MA,TV Series
+177,#178,Critical Role,2015–,9.0,(15K),TV-14,TV Series
+178,#179,Archer,2009–2023,8.6,(176K),TV-MA,TV Series
+179,#180,Scavengers Reign,2023,8.6,(36K),TV-MA,TV Mini Series
+180,#181,Dopesick,2021,8.6,(93K),TV-MA,TV Mini Series
+181,#182,Yeh Meri Family,2018–,8.9,(28K),TV-14,TV Series
+182,#183,Mystery Science Theater 3000,1988–1999,8.6,(28K),TV-14,TV Series
+183,#184,Justified,2010–2015,8.6,(131K),TV-MA,TV Series
+184,#185,The Bugs Bunny Show,1960–1975,8.5,(38K),TV-G,TV Series
+185,#186,QI,2003–,8.6,(36K),TV-PG,TV Series
+186,#187,Endeavour,2012–2023,8.6,(38K),TV-14,TV Series
+187,#188,Battlestar Galactica,2003,8.5,(85K),TV-14,TV Mini Series
+188,#189,The Venture Bros.,2003–2018,8.6,(30K),TV-14,TV Series
+189,#190,Dragon Ball,1986–1989,8.5,(76K),T,TV Series
+190,#191,Justice League,2001–2004,8.5,(57K),TV-PG,TV Series
+191,#192,"Yes, Prime Minister",1986–1987,8.6,(15K),TV-PG,TV Series
+192,#193,Young Justice,2010–2022,8.6,(51K),TV-PG,TV Series
+193,#194,Regular Show,2010–2017,8.6,(75K),TV-PG,TV Series
+194,#195,What We Do in the Shadows,2019–2024,8.5,(127K),TV-MA,TV Series
+195,#196,Demon Slayer: Kimetsu no Yaiba,2019–2024,8.6,(229K),TV-MA,TV Series
+196,#197,Black Sun,2017–2026,8.8,(14K),TV-MA,TV Series
+197,#198,Samurai Champloo,2004–2005,8.5,(64K),TV-MA,TV Series
+198,#199,Dragon Ball,1995–2003,8.5,(76K),TV-14,TV Series
+199,#200,The Haunting of Hill House,2018,8.5,(331K),TV-MA,TV Mini Series
+200,#201,Detectorists,2014–2022,8.6,(27K),TV-14,TV Series
+201,#202,The IT Crowd,2006–2013,8.5,(177K),TV-14,TV Series
+202,#203,Flight of the Conchords,2007–2009,8.5,(70K),TV-MA,TV Series
+203,#204,Rocket Boys,2022–,8.8,(21K),TV Series,
+204,#205,Mr. Robot,2015–2019,8.5,(470K),TV-MA,TV Series
+205,#206,Samurai Jack,2001–2017,8.5,(67K),TV-Y7,TV Series
+206,#207,The Family Man,2019–,8.7,(113K),TV-MA,TV Series
+207,#208,I'm Alan Partridge,1997–2002,8.6,(24K),TV-MA,TV Series
+208,#209,Coupling,2000–2004,8.5,(50K),TV-14,TV Series
+209,#210,Ezel,2009–2011,8.6,(44K),TV-14,TV Series
+210,#211,The Queen's Gambit,2020,8.5,(668K),TV-MA,TV Mini Series
+211,#212,Happy Valley,2014–2023,8.5,(74K),TV-MA,TV Series
+212,#213,Derry Girls,2018–2022,8.5,(78K),TV-MA,TV Series
+213,#214,The Rehearsal,2022–,8.5,(37K),TV-MA,TV Series
+214,#215,The Boys,2019–2026,8.5,(1M),TV-MA,TV Series
+215,#216,Long Way Round,2004–2010,8.6,(17K),TV-PG,TV Mini Series
+216,#217,Mob Psycho 100,2016–2022,8.5,(68K),TV-14,TV Series
+217,#218,Jujutsu Kaisen,2020–,8.5,(212K),TV-MA,TV Series
+218,#219,Making a Murderer,2015–2018,8.5,(108K),TV-14,TV Series
+219,#220,Twin Peaks,2017,8.5,(90K),TV-MA,TV Series
+220,#221,Alchemy of Souls,2022–2023,8.7,(30K),TV-14,TV Series
+221,#222,All Creatures Great & Small,2020–,8.6,(23K),TV-PG,TV Series
+222,#223,Spaced,1999–2001,8.5,(61K),TV-14,TV Series
+223,#224,Sons of Anarchy,2008–2014,8.5,(357K),TV-MA,TV Series
+224,#225,Whose Line Is It Anyway?,1998–2007,8.5,(49K),TV-PG,TV Series
+225,#226,Impractical Jokers,2011–,8.5,(52K),TV-14,TV Series
+226,#227,Neon Genesis Evangelion,1995–1996,8.5,(112K),TV-MA,TV Series
+227,#228,Takopi's Original Sin,2025,8.7,(28K),Approved,TV Mini Series
+228,#229,Through the Wormhole,2010–2017,8.6,(19K),TV-PG,TV Series
+229,#230,Star Wars: Maul - Shadow Lord,2026–,8.6,(27K),TV-PG,TV Series
+230,#231,Louie,2010–2015,8.5,(85K),TV-MA,TV Series
+231,#232,Mind Your Language,1977–1986,8.6,(11K),TV-14,TV Series
+232,#233,My Brilliant Friend,2018–2024,8.6,(23K),TV-MA,TV Series
+233,#234,Trailer Park Boys,2001–2026,8.5,(58K),TV-MA,TV Series
+234,#235,Your Lie in April,2014–2015,8.6,(52K),TV-PG,TV Series
+235,#236,Gintama,2005–2021,8.7,(22K),TV-MA,TV Series
+236,#237,Yellowstone,2018–2024,8.6,(315K),TV-MA,TV Series
+237,#238,The Office,2001–2003,8.5,(133K),TV-MA,TV Series
+238,#239,The Eric Andre Show,2012–,8.5,(24K),TV-MA,TV Series
+239,#240,Schitt's Creek,2015–2020,8.5,(175K),TV-14,TV Series
+240,#241,Tash Ma Tash,1993–2023,9.0,(13K),TV Series,
+241,#242,Solo Leveling,2024–,8.5,(115K),TV-MA,TV Series
+242,#243,Mahabharat,2013–2014,8.7,(15K),TV Series,
+243,#244,Twinkling Watermelon,2023,8.8,(15K),TV Series,
+244,#245,Brass Eye,1997–2001,8.6,(13K),TV-MA,TV Series
+245,#246,Smiling Friends,2020–2026,8.5,(31K),TV-MA,TV Series
+246,#247,The Expanse,2015–2022,8.5,(193K),TV-14,TV Series
+247,#248,The Boondocks,2005–2014,8.5,(42K),TV-MA,TV Series
+248,#249,The Great British Baking Show,2010–,8.6,(16K),TV-PG,TV Series
+249,#250,Silicon Valley,2014–2019,8.5,(183K),TV-MA,TV Series
